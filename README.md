@@ -1,5 +1,7 @@
 # Pento tech challenge by Daniel Rodriguez
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/danielo515/pento-tech-challenge.svg)](https://greenkeeper.io/)
+
 The entire solution is publicly available at: https://pento.danielo.es
 
 ## Testing the back locally
